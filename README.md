@@ -13,7 +13,14 @@ This demo only support processing WAV file. And there is a WAV file called apple
 Copy this file to your SD card and write it's directory on sd card.  
 For example, copy this file to /sdcard/Download/,then source file is /sdcard/Download/apple.wav.
 
+## Architecture picture and work flow picture
+The architecture of SoundTouch lib is as follows: 
+ 
+[SoundTouch Architecture](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_archi.png)
 
+And the work-flow of SoundTouch is as follows:  
+
+[SoundTouch Workflow](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_flow.png)
 
 
 
