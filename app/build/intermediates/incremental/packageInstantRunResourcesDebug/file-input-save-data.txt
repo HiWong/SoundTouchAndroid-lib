@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Wed Jan 04 14:35:47 CST 2017
+1.base=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+2.base=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_example.xml
+count=4
+1.set=ANDROID_RESOURCE
+3.base=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+0.file=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml

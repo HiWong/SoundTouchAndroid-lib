@@ -1,0 +1,4 @@
+#Mon Jan 09 15:31:08 CST 2017
+base.0=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/allen/AndroidStudioProjects/SoundTouchAndroid-lib/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
