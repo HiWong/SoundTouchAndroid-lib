@@ -16,11 +16,14 @@ For example, copy this file to /sdcard/Download/,then source file is /sdcard/Dow
 ## Architecture picture and work flow picture
 The architecture of SoundTouch lib is as follows: 
  
-[SoundTouch Architecture](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_archi.png)
+![SoundTouch Architecture](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_archi.png)
 
 And the work-flow of SoundTouch is as follows:  
 
-[SoundTouch Workflow](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_flow.png)
+![SoundTouch Workflow](https://github.com/HiWong/SoundTouchAndroid-lib/blob/master/app/soundtouch_flow.png)
+
+
+
 
 
 
